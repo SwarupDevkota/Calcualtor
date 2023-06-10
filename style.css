@@ -1,0 +1,25 @@
+body {background-color:tan;}
+h1{color:green;}
+body {
+    background-color: tan(255, 255, 255);
+    font-family: Arial;
+    color: rgb(48, 47, 47);
+}
+
+h1 {
+    color: grey;
+    font-family: Verdana;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+  
+    
+
+
